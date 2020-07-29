@@ -54,7 +54,7 @@ cd UnsupervisedQA
 
 # install python dependencies:
 pip install -r requirements.txt
-
+pip install scikit-learn==0.22.2  # fixes dependency issue
 # install UnsupervisedMT and its dependencies
 ./install_tools.sh
 ```
