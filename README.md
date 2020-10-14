@@ -1,4 +1,5 @@
 # UnsupervisedQA
+## Dockerfiles added, one with a base from allennlp and the other with Pytorch base, I believe the latter was in best working order.
 
 Code, Data and models supporting the experiments in the ACL 2019 Paper: [Unsupervised Question Answering by Cloze Translation](https://arxiv.org/abs/1906.04980). 
 
